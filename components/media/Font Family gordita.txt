@@ -1,0 +1,28 @@
+﻿Font Family :gordita
+link:https://www.cufonfonts.com/font/gordita
+
+
+Font Size -----------
+        H1 :        78px
+        H2 :        40px
+        H3 :        34px
+        H4 :        20px
+        H5 :        18px
+      H6 :        16px
+      H7 :        14px
+     
+
+
+Colours -
+Blue:07072A
+Blue(linear):
+dark blue :080745
+light blue :075B94
+hash:1F2934
+White :ffffff
+
+
+Packages
+
+
+Linear-gradient :- https://www.npmjs.com/package/react-native-linear-gradient
